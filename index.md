@@ -56,7 +56,7 @@ EDUCATION
 ---
 **Certificate**<br/>
 **Epicodus, Seattle**<br/> 		
-**Full-stack web development|2017-2018**<br/> 	
+**Full-stack web development|2017-2018**	
 ```
 Full-stack web development immersive courses which covered various programming technologies including
 HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI, React and Redux.
