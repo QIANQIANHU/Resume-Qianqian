@@ -4,10 +4,10 @@
 ###### 11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com ######          
 ### Qianqian Hu ###
 
-<center>SUMMARY</center>
+SUMMARY
 ---
 ```
-As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, /coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning /projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and /interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, /which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working /experience of a web developer, I know more of the magic and limits of technical, which now inspires me to /looking for opportunities to dive deeply in the development cycle.
+As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, \coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning \projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and \interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, \which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working \experience of a web developer, I know more of the magic and limits of technical, which now inspires me to \looking for opportunities to dive deeply in the development cycle.
 ```
 
 
