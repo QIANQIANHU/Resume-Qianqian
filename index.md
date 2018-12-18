@@ -33,18 +33,15 @@ EXPERIENCE
 **Web Developer**<br/>
 **Mercutio IT Consulting, Seattle|2018 Jul-Dec**<br/>
 
-+
-```
++ ```
 Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/
 libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible
 user experience and reduce the latency of page load.
 ```
-+  
-```
++  ```
 Built website based on Magento framework, together with PHP and style language LESS.
 ```
-+
-```
++ ```
 Wrote SQL based Database queries, working with XML as well as JSON configurations files.
 ```
 + `Used virtual software development environments Docker and Vagrant.`
