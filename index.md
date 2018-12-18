@@ -15,7 +15,6 @@ HIGHLIGHTS
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |  
 | zebra stripes | are neat      |
-
 | Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes. |
 | Use of server-side JavaScript, PHP, and C#. |Strong Excel skills and analysis abilities. |
 | Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.| Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision. |
@@ -44,7 +43,7 @@ EXPERIENCE
 + Analysed client’s annual and quarterly financial reports with analytical data-driven working procedures, reported and followed up financial findings, interviewed clients and drafted memo.
 + Planed working procedures with manager, breakdown complex requirements, created prioritization and proactively stick to the prioritization, managed timelines and deliverables.
 + Worked closely with consulting, auditing and client teams, coordinated manager and clients to build customized business strategy and competitive research and analysis.
----
+
 EDUCATION
 ---
   **Certificate**
