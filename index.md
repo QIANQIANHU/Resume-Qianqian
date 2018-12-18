@@ -6,7 +6,7 @@
 
 SUMMARY
 ---
-    As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working experience of a web developer, I know more of the magic and limits of technical, which now inspires me to looking for opportunities to dive deeply in the development cycle.
+`As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working experience of a web developer, I know more of the magic and limits of technical, which now inspires me to looking for opportunities to dive deeply in the development cycle.`
 
 
 HIGHLIGHTS
@@ -51,11 +51,13 @@ EDUCATION
 **Full-stack web development|2017-2018**<br/>
     Full-stack web development immersive courses which covered various programming technologies including HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI, React and Redux.
 <br/>
+
 **Master of Science (MSc)**<br/>
 **University of Glasgow, Glasgow, UK**<br/>
 **Major: International Trade and Finance|2008-2010**<br/>
     Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money and Globalization, and Trade and Economic Development.
 <br/>
+
 **Bachelor's degree (BA)**<br/>
 **Nanjing University of Finance and Economics, Nanjing, China**<br/>
 **Major: Trade and Economics|2003-2007**<br/>
