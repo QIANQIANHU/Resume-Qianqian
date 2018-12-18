@@ -5,7 +5,7 @@
 ### Qianqian Hu ###
 
 SUMMARY
-:---:
+---
   ```As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working experience of a web developer, I know more of the magic and limits of technical, which now inspires me to looking for opportunities to dive deeply in the development cycle.
   ```
 
@@ -24,13 +24,12 @@ EXPERIENCE
 ---
 **Web Developer**<br/>
 **Mercutio IT Consulting, Seattle|2018 Jul-Dec**<br/>
-```
-+ Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible user experience and reduce the latency of page load.
-+ Built website based on Magento framework, together with PHP and style language LESS.
-+ Wrote SQL based Database queries, working with XML as well as JSON configurations files.
-+ Used virtual software development environments Docker and Vagrant.
-+ Developed detailed functional specs for new products and enhancements for web and mobile apps, data feeds and APIs, plugins, and other customer-facing products.
-+ Collaborated with business teams to understand customer issues and investigated, prototyped new system solutions. Cultivated an Agile environment to deliver high quality software. Drove projects from start to finish with a team of web-developers from various experience levels.
+```/+ Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible user experience and reduce the latency of page load.
+/Built website based on Magento framework, together with PHP and style language LESS.
+/Wrote SQL based Database queries, working with XML as well as JSON configurations files.
+/Used virtual software development environments Docker and Vagrant.
+/ Developed detailed functional specs for new products and enhancements for web and mobile apps, data feeds and APIs, plugins, and other customer-facing products.
+/ Collaborated with business teams to understand customer issues and investigated, prototyped new system solutions. Cultivated an Agile environment to deliver high quality software. Drove projects from start to finish with a team of web-developers from various experience levels.
 + Partnered with UX, engineers, Devops and QA teams to build and deliver excellent experiences. Worked in agile development cycles.
 ```
 **Project Manager**<br/>
@@ -60,8 +59,8 @@ EDUCATION
 **University of Glasgow, Glasgow, UK**<br/>
 **Major: International Trade and Finance|2008-2010**<br/>
 
-```Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money and Globalization, and Trade and Economic Development.
-```
+    Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money and Globalization, and Trade and Economic Development.
+
 <br/>
 **Bachelor's degree (BA)**<br/>
 **Nanjing University of Finance and Economics, Nanjing, China**<br/>
