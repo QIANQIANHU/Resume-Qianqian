@@ -1,8 +1,7 @@
 
 
 
-###### 11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com ######
-===           
+###### 11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com ######          
 ### Qianqian Hu ###
 
 SUMMARY
@@ -11,7 +10,10 @@ SUMMARY
 ---
 HIGHLIGHTS
 ---
-
+Markdown | Less | 
+--- | --- |
+*Still* | `renders` |
+1 | 2 |
 Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes.
 Use of server-side JavaScript, PHP, and C#. | Strong Excel skills and analysis abilities.
 Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.| Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.
