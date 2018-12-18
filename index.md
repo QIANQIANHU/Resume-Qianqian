@@ -21,8 +21,8 @@ HIGHLIGHTS
 
 EXPERIENCE
 ---
-  **Web Developer**<br/>
-  **Mercutio IT Consulting, Seattle|2018 Jul-Dec**<br/>
+**Web Developer**<br/>
+**Mercutio IT Consulting, Seattle|2018 Jul-Dec**<br/>
 + Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible user experience and reduce the latency of page load.
 + Built website based on Magento framework, together with PHP and style language LESS.
 + Wrote SQL based Database queries, working with XML as well as JSON configurations files.
@@ -31,13 +31,13 @@ EXPERIENCE
 + Collaborated with business teams to understand customer issues and investigated, prototyped new system solutions. Cultivated an Agile environment to deliver high quality software. Drove projects from start to finish with a team of web-developers from various experience levels.
 + Partnered with UX, engineers, Devops and QA teams to build and deliver excellent experiences. Worked in agile development cycles.<br/>
 
-  **Project Manager**<br/>
-  **Pindous Coffee Startup, Seattle|2015-2017**<br/>
+**Project Manager**<br/>
+**Pindous Coffee Startup, Seattle|2015-2017**<br/>
 + Professionally communicated with customers at all stages of the product life cycle: requirements, building, delivery, launch, measurement and improvement.
 + Determined and defined product’s detailed requirements, partnered with UX team to help explain the user and product needs, partnered with QA and coordinated successful product launches.
 + Collaborated with product and design teams to define products and advocated web interaction design best practices with a focus on consistency and usability.<br/>
-  **Auditor**<br/>
-  **KPMG, Nanjing, China|2011-2014**<br/>
+**Auditor**<br/>
+**KPMG, Nanjing, China|2011-2014**<br/>
 
 + Analysed client’s annual and quarterly financial reports with analytical data-driven working procedures, reported and followed up financial findings, interviewed clients and drafted memo.
 + Planed working procedures with manager, breakdown complex requirements, created prioritization and proactively stick to the prioritization, managed timelines and deliverables.
