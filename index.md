@@ -10,7 +10,7 @@ SUMMARY
 
 HIGHLIGHTS
 ---
-| Tables        | Are           |
+| Web Development | Collaboration |
 | ------------- | ------------- |
 | Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes. |
 | Use of server-side JavaScript, PHP, and C#. |Strong Excel skills and analysis abilities. |
