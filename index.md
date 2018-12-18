@@ -1,9 +1,5 @@
-
-
-
 ###### 11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com ######          
-Qianqian Hu
-===
+### Qianqian Hu ###
 SUMMARY
 ---
 ```
