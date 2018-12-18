@@ -33,21 +33,15 @@ EXPERIENCE
 **Web Developer**<br/>
 **Mercutio IT Consulting, Seattle|2018 Jul-Dec**<br/>
 
-+ ```
-Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/
++ Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/
 libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible
 user experience and reduce the latency of page load.
-```
-+  ```
-Built website based on Magento framework, together with PHP and style language LESS.
-```
-+ ```
-Wrote SQL based Database queries, working with XML as well as JSON configurations files.
-```
-+ `Used virtual software development environments Docker and Vagrant.`
-+ `Developed detailed functional specs for new products and enhancements for web and mobile apps, data feeds and APIs, plugins, and other customer-facing products.`
-+ `Collaborated with business teams to understand customer issues and investigated, prototyped new system solutions. Cultivated an Agile environment to deliver high quality software. Drove projects from start to finish with a team of web-developers from various experience levels.`
-+ `Partnered with UX, engineers, Devops and QA teams to build and deliver excellent experiences. Worked in agile development cycles.`
++ Built website based on Magento framework, together with PHP and style language LESS.
++ Wrote SQL based Database queries, working with XML as well as JSON configurations files.
++ Used virtual software development environments Docker and Vagrant.
++ Developed detailed functional specs for new products and enhancements for web and mobile apps, data feeds and APIs, plugins, and other customer-facing products.
++ Collaborated with business teams to understand customer issues and investigated, prototyped new system solutions. Cultivated an Agile environment to deliver high quality software. Drove projects from start to finish with a team of web-developers from various experience levels.
++ Partnered with UX, engineers, Devops and QA teams to build and deliver excellent experiences. Worked in agile development cycles.
 
 **Project Manager**<br/>
 **Pindous Coffee Startup, Seattle|2015-2017**<br/>
