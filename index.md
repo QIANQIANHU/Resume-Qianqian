@@ -1,5 +1,6 @@
 ###### 11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com ######          
 ### Qianqian Hu ###
+
 SUMMARY
 ---
 
@@ -9,13 +10,15 @@ working experience of a web developer, I know more of the magic and limits of te
 
 HIGHLIGHTS
 ---
-| Web Development | Collaboration   |
-| :-------------: | :-------------: |
-| Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes. |
-| Use of server-side JavaScript, PHP, and C#. |Strong Excel skills and analysis abilities. |
-| Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.| Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision. |
-| Turning Photoshop designs into semantic W3C standard HTML templates. | Self-directed: sets and meets deadlines, multi-tasks, and prioritizes. |
-| Experience creating scalable, high performance JavaScript Web Applications. |   |
++ Use of cross-browser HTML, CSS, and JavaScript.
++ Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.
++ Use of server-side JavaScript, PHP, and C#.
++ Turning Photoshop designs into semantic W3C standard HTML templates.
++ Ability to run complex SQL queries for analysis and usage report purposes.
++ Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.
++ Strong Excel skills and analysis abilities.
++ Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.
++ Experience creating scalable, high performance JavaScript Web Applications. |   |
 
 
 EXPERIENCE
@@ -51,8 +54,9 @@ EDUCATION
 **Epicodus, Seattle**<br/> 		
 **Full-stack web development|2017-2018**
 ```
-Full-stack web development immersive courses which covered various programming technologies including
-HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI, React and Redux.
+Full-stack web development immersive courses which covered various
+programming technologies including HTML, CSS, JavaScript, Ruby, C#,
+database management system, AngularJS, RestAPI, React and Redux.
 ```
 <br/>
 
@@ -60,8 +64,9 @@ HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI,
 **University of Glasgow, Glasgow, UK**<br/>
 **Major: International Trade and Finance|2008-2010** 	
 ```
-Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money
-and Globalization, and Trade and Economic Development.
+Macroeconomics, Microeconomics, Basic Econometrics, International
+Trade, International Finance and Money and Globalization, and Trade
+and Economic Development.
 ```
 <br/>
 
@@ -69,7 +74,8 @@ and Globalization, and Trade and Economic Development.
 **Nanjing University of Finance and Economics, Nanjing, China**<br/>
 **Major: Trade and Economics|2003-2007**
 ```
-Accountancy, Statistics, Monetary Banking, International Marketing, Probability Theory and Mathematical
-Statistics, Econometrics, Public finance, International Finance, International Trade Laws, International
-Economics, and Multinational Investment and management.
+Accountancy, Statistics, Monetary Banking, International Marketing,
+Probability Theory and Mathematical Statistics, Econometrics,
+Public finance, International Finance, International Trade Laws,
+International Economics, and Multinational Investment and management.
 ```
