@@ -56,7 +56,7 @@ EDUCATION
 ---
 **Certificate**<br/>
 **Epicodus, Seattle**<br/> 		
-**Full-stack web development|2017-2018**
+**Full-stack web development|2017-2018**<br/> 	
 ```
 Full-stack web development immersive courses which covered various programming technologies including
 HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI, React and Redux.
@@ -64,7 +64,7 @@ HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI,
 <br/>
 **Master of Science (MSc)**<br/>
 **University of Glasgow, Glasgow, UK**<br/>
-**Major: International Trade and Finance|2008-2010**
+**Major: International Trade and Finance|2008-2010**<br/> 	
 ```
 Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money
 and Globalization, and Trade and Economic Development.
@@ -72,7 +72,7 @@ and Globalization, and Trade and Economic Development.
 <br/>
 **Bachelor's degree (BA)**<br/>
 **Nanjing University of Finance and Economics, Nanjing, China**<br/>
-**Major: Trade and Economics|2003-2007**
+**Major: Trade and Economics|2003-2007**<br/> 	
 ```
 Accountancy, Statistics, Monetary Banking, International Marketing, Probability Theory and Mathematical
 Statistics, Econometrics, Public finance, International Finance, International Trade Laws, International
