@@ -5,8 +5,9 @@
 ### Qianqian Hu ###
 
 SUMMARY
----
-  <p>As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working experience of a web developer, I know more of the magic and limits of technical, which now inspires me to looking for opportunities to dive deeply in the development cycle.</p>
+:---:
+  ```As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working experience of a web developer, I know more of the magic and limits of technical, which now inspires me to looking for opportunities to dive deeply in the development cycle.
+  ```
 
 HIGHLIGHTS
 ---
@@ -30,14 +31,14 @@ EXPERIENCE
 + Used virtual software development environments Docker and Vagrant.
 + Developed detailed functional specs for new products and enhancements for web and mobile apps, data feeds and APIs, plugins, and other customer-facing products.
 + Collaborated with business teams to understand customer issues and investigated, prototyped new system solutions. Cultivated an Agile environment to deliver high quality software. Drove projects from start to finish with a team of web-developers from various experience levels.
-+ Partnered with UX, engineers, Devops and QA teams to build and deliver excellent experiences. Worked in agile development cycles.<br/>
++ Partnered with UX, engineers, Devops and QA teams to build and deliver excellent experiences. Worked in agile development cycles.
 ```
 **Project Manager**<br/>
 **Pindous Coffee Startup, Seattle|2015-2017**<br/>
 ```
 + Professionally communicated with customers at all stages of the product life cycle: requirements, building, delivery, launch, measurement and improvement.
 + Determined and defined product’s detailed requirements, partnered with UX team to help explain the user and product needs, partnered with QA and coordinated successful product launches.
-+ Collaborated with product and design teams to define products and advocated web interaction design best practices with a focus on consistency and usability.<br/>
++ Collaborated with product and design teams to define products and advocated web interaction design best practices with a focus on consistency and usability.
 ```
 **Auditor**<br/>
 **KPMG, Nanjing, China|2011-2014**<br/>
@@ -51,17 +52,20 @@ EDUCATION
 **Certificate**<br/>
 **Epicodus, Seattle**<br/> 		
 **Full-stack web development|2017-2018**<br/>
+
 ```Full-stack web development immersive courses which covered various programming technologies including HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI, React and Redux.
 ```
 <br/>
 **Master of Science (MSc)**<br/>
 **University of Glasgow, Glasgow, UK**<br/>
 **Major: International Trade and Finance|2008-2010**<br/>
+
 ```Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money and Globalization, and Trade and Economic Development.
 ```
 <br/>
 **Bachelor's degree (BA)**<br/>
 **Nanjing University of Finance and Economics, Nanjing, China**<br/>
 **Major: Trade and Economics|2003-2007**<br/>
+
 ```Accountancy, Statistics, Monetary Banking, International Marketing, Probability Theory and Mathematical Statistics, Econometrics, Public finance, International Finance, International Trade Laws, International Economics, and Multinational Investment and management.
 ```
