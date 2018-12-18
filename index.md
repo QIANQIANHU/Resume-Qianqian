@@ -10,6 +10,12 @@ SUMMARY
 
 HIGHLIGHTS
 ---
+| Tables        | Are           |
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |  
+| zebra stripes | are neat      |
+
 | Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes. |
 | Use of server-side JavaScript, PHP, and C#. |Strong Excel skills and analysis abilities. |
 | Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.| Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision. |
