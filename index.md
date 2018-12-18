@@ -62,7 +62,6 @@ Full-stack web development immersive courses which covered various programming t
 HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI, React and Redux.
 ```
 <br/>
-
 **Master of Science (MSc)**<br/>
 **University of Glasgow, Glasgow, UK**<br/>
 **Major: International Trade and Finance|2008-2010**<br/>
@@ -70,8 +69,6 @@ HTML, CSS, JavaScript, Ruby, C#, database management system, AngularJS, RestAPI,
 Macroeconomics, Microeconomics, Basic Econometrics, International Trade, International Finance and Money
 and Globalization, and Trade and Economic Development.
 ```
-<br/>
-
 **Bachelor's degree (BA)**<br/>
 **Nanjing University of Finance and Economics, Nanjing, China**<br/>
 **Major: Trade and Economics|2003-2007**<br/>
