@@ -1,30 +1,30 @@
 
 
 ----------------------------------------------------------------------------------------------
-#####11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com #####           
+11817 NE 70th Place, Kirkland, WA 98033 | C: (425)-324-7684 | huqianqian@ymail.com            
 ----------------------------------------------------------------------------------------------
-###Qianqian Hu###
+Qianqian Hu
 =================
 
-##SUMMARY##
+SUMMARY
 ----------------------------------------------------------------------------------------------
   As a PM, I evangelized the customers voice and needs, drove appropriate product decisions based on both qualitative and quantitative data, coordinated engineering and UX team, and managed timelines and deliverables. With the strong curiosity and passion for owning projects end-to-end, building it from the ground up, and shipping it to customers through a dynamic and interactive platform, I converted myself to be a developer. I have the eager to find the missing puzzle of a full products life cycle, which for me is the understanding of code. Thus, I broke into this industry with a PM background. With the working experience of a web developer, I know more of the magic and limits of technical, which now inspires me to looking for opportunities to dive deeply in the development cycle.
 ----------------------------------------------------------------------------------------------  
-##HIGHLIGHTS##
+HIGHLIGHTS
 ----------------------------------------------------------------------------------------------
 | Tables        | Are           |
 | ------------- |:-------------:|
 | col 3 is      | right-aligned |
 | col 2 is      | centered      |
 | zebra stripes | are neat      |
-| + Use of cross-browser HTML, CSS, and JavaScript. | + Ability to run complex SQL queries for analysis and usage report purposes.|
-| + Use of server-side JavaScript, PHP, and C#. | + Strong Excel skills and analysis abilities.|
-| + Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.| + Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.|
-| + turning Photoshop designs into semantic W3C standard HTML templates.| + Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.|
-| + Experience creating scalable, high performance JavaScript Web Applications.| |
+| ⋅⋅* Use of cross-browser HTML, CSS, and JavaScript. | ⋅⋅* Ability to run complex SQL queries for analysis and usage report purposes.|
+| ⋅⋅* Use of server-side JavaScript, PHP, and C#. | ⋅⋅* Strong Excel skills and analysis abilities.|
+| ⋅⋅* Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.| ⋅⋅* Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.|
+| ⋅⋅* turning Photoshop designs into semantic W3C standard HTML templates.| ⋅⋅* Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.|
+| ⋅⋅* Experience creating scalable, high performance JavaScript Web Applications.| |
 
 ----------------------------------------------------------------------------------------------
-##EXPERIENCE##
+EXPERIENCE
 ----------------------------------------------------------------------------------------------
   **Web Developer**
   **Mercutio IT Consulting, Seattle|2018 Jul-Dec**
@@ -48,7 +48,7 @@
 + Planed working procedures with manager, breakdown complex requirements, created prioritization and proactively stick to the prioritization, managed timelines and deliverables.
 + Worked closely with consulting, auditing and client teams, coordinated manager and clients to build customized business strategy and competitive research and analysis.
 ----------------------------------------------------------------------------------------------
-##EDUCATION##
+EDUCATION
 ----------------------------------------------------------------------------------------------
   **Certificate**
   **Epicodus, Seattle**    		
