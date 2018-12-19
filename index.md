@@ -10,18 +10,41 @@ working experience of a web developer, I know more of the magic and limits of te
 
 HIGHLIGHTS
 ---
-Development | Collaboration
--------------- | --------------
-Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes. Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience. | Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.
-Use of server-side JavaScript, PHP, and C#.| Strong Excel skills and analysis abilities.
-Turning Photoshop designs into semantic W3C standard HTML templates. | Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.
-Experience creating scalable, high performance JavaScript Web Applications. |   
++ Use of cross-browser HTML, CSS, and JavaScript.  Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.
++ Use of server-side JavaScript, PHP, and C#.
++ Turning Photoshop designs into semantic W3C standard HTML templates.
++ Experience creating scalable, high performance JavaScript Web Applications.
++ Ability to run complex SQL queries for analysis and usage report purposes.   
++ Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.
++ Strong Excel skills and analysis abilities.
++ Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.
 
 EXPERIENCE
 ---
 **Web Developer**<br/>
 **Mercutio IT Consulting, Seattle|2018 Jul-Dec**<br/>
-
+<tr>
+  <th>Development</th>
+  <th>Collaboration</th>
+</tr>
+<tr>
+  <th>Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/
+  libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible
+  user experience and reduce the latency of page load.</th>
+  <th>Built website based on Magento framework, together with PHP and style language LESS.</th>
+</tr>
+<tr>
+  <th>Firstname</th>
+  <th>Lastname</th>
+</tr>
+<tr>
+  <th>Firstname</th>
+  <th>Lastname</th>
+</tr>
+<tr>
+  <th>Firstname</th>
+  <th>Lastname</th>
+</tr>
 + Created web designs in HTML and CSS. Implemented functionality in JavaScript (and JavaScript-based frameworks/
 libraries) and server-side languages/frameworks. Worked with back-end developers to create the best possible
 user experience and reduce the latency of page load.
