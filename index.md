@@ -10,16 +10,12 @@ working experience of a web developer, I know more of the magic and limits of te
 
 HIGHLIGHTS
 ---
-+ Use of cross-browser HTML, CSS, and JavaScript.
-+ Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience.
-+ Use of server-side JavaScript, PHP, and C#.
-+ Turning Photoshop designs into semantic W3C standard HTML templates.
-+ Ability to run complex SQL queries for analysis and usage report purposes.
-+ Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.
-+ Strong Excel skills and analysis abilities.
-+ Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.
-+ Experience creating scalable, high performance JavaScript Web Applications. |   |
-
+Development | Collaboration
+-------------- | --------------
+Use of cross-browser HTML, CSS, and JavaScript. | Ability to run complex SQL queries for analysis and usage report purposes. Use of client-side JavaScript frameworks and libraries (AngularJS, ReactJS) Experience. | Excellent communication, presentation skills; demonstrated success in building buy-in for an innovative, bold, strategic vision.
+Use of server-side JavaScript, PHP, and C#.| Strong Excel skills and analysis abilities.
+Turning Photoshop designs into semantic W3C standard HTML templates. | Self-directed: sets and meets deadlines, multi-tasks, and prioritizes.
+Experience creating scalable, high performance JavaScript Web Applications. |   
 
 EXPERIENCE
 ---
